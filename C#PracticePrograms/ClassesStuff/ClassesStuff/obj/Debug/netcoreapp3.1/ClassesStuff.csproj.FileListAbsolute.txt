@@ -1,0 +1,11 @@
+C:\Users\Test\Documents\C#PracticePrograms\ClassesStuff\ClassesStuff\bin\Debug\netcoreapp3.1\ClassesStuff.exe
+C:\Users\Test\Documents\C#PracticePrograms\ClassesStuff\ClassesStuff\bin\Debug\netcoreapp3.1\ClassesStuff.deps.json
+C:\Users\Test\Documents\C#PracticePrograms\ClassesStuff\ClassesStuff\bin\Debug\netcoreapp3.1\ClassesStuff.runtimeconfig.json
+C:\Users\Test\Documents\C#PracticePrograms\ClassesStuff\ClassesStuff\bin\Debug\netcoreapp3.1\ClassesStuff.runtimeconfig.dev.json
+C:\Users\Test\Documents\C#PracticePrograms\ClassesStuff\ClassesStuff\bin\Debug\netcoreapp3.1\ClassesStuff.dll
+C:\Users\Test\Documents\C#PracticePrograms\ClassesStuff\ClassesStuff\bin\Debug\netcoreapp3.1\ClassesStuff.pdb
+C:\Users\Test\Documents\C#PracticePrograms\ClassesStuff\ClassesStuff\obj\Debug\netcoreapp3.1\ClassesStuff.csprojAssemblyReference.cache
+C:\Users\Test\Documents\C#PracticePrograms\ClassesStuff\ClassesStuff\obj\Debug\netcoreapp3.1\ClassesStuff.AssemblyInfoInputs.cache
+C:\Users\Test\Documents\C#PracticePrograms\ClassesStuff\ClassesStuff\obj\Debug\netcoreapp3.1\ClassesStuff.AssemblyInfo.cs
+C:\Users\Test\Documents\C#PracticePrograms\ClassesStuff\ClassesStuff\obj\Debug\netcoreapp3.1\ClassesStuff.dll
+C:\Users\Test\Documents\C#PracticePrograms\ClassesStuff\ClassesStuff\obj\Debug\netcoreapp3.1\ClassesStuff.pdb

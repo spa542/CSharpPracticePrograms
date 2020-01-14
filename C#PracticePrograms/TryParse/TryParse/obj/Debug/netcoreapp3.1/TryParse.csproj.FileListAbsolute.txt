@@ -1,0 +1,10 @@
+C:\Users\Test\Documents\C#PracticePrograms\TryParse\TryParse\bin\Debug\netcoreapp3.1\TryParse.exe
+C:\Users\Test\Documents\C#PracticePrograms\TryParse\TryParse\bin\Debug\netcoreapp3.1\TryParse.deps.json
+C:\Users\Test\Documents\C#PracticePrograms\TryParse\TryParse\bin\Debug\netcoreapp3.1\TryParse.runtimeconfig.json
+C:\Users\Test\Documents\C#PracticePrograms\TryParse\TryParse\bin\Debug\netcoreapp3.1\TryParse.runtimeconfig.dev.json
+C:\Users\Test\Documents\C#PracticePrograms\TryParse\TryParse\bin\Debug\netcoreapp3.1\TryParse.dll
+C:\Users\Test\Documents\C#PracticePrograms\TryParse\TryParse\bin\Debug\netcoreapp3.1\TryParse.pdb
+C:\Users\Test\Documents\C#PracticePrograms\TryParse\TryParse\obj\Debug\netcoreapp3.1\TryParse.AssemblyInfoInputs.cache
+C:\Users\Test\Documents\C#PracticePrograms\TryParse\TryParse\obj\Debug\netcoreapp3.1\TryParse.AssemblyInfo.cs
+C:\Users\Test\Documents\C#PracticePrograms\TryParse\TryParse\obj\Debug\netcoreapp3.1\TryParse.dll
+C:\Users\Test\Documents\C#PracticePrograms\TryParse\TryParse\obj\Debug\netcoreapp3.1\TryParse.pdb

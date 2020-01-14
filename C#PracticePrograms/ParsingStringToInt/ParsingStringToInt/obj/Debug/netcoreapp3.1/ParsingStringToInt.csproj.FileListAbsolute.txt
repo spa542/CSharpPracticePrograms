@@ -1,0 +1,10 @@
+C:\Users\Test\Documents\C#PracticePrograms\ParsingStringToInt\ParsingStringToInt\bin\Debug\netcoreapp3.1\ParsingStringToInt.exe
+C:\Users\Test\Documents\C#PracticePrograms\ParsingStringToInt\ParsingStringToInt\bin\Debug\netcoreapp3.1\ParsingStringToInt.deps.json
+C:\Users\Test\Documents\C#PracticePrograms\ParsingStringToInt\ParsingStringToInt\bin\Debug\netcoreapp3.1\ParsingStringToInt.runtimeconfig.json
+C:\Users\Test\Documents\C#PracticePrograms\ParsingStringToInt\ParsingStringToInt\bin\Debug\netcoreapp3.1\ParsingStringToInt.runtimeconfig.dev.json
+C:\Users\Test\Documents\C#PracticePrograms\ParsingStringToInt\ParsingStringToInt\bin\Debug\netcoreapp3.1\ParsingStringToInt.dll
+C:\Users\Test\Documents\C#PracticePrograms\ParsingStringToInt\ParsingStringToInt\bin\Debug\netcoreapp3.1\ParsingStringToInt.pdb
+C:\Users\Test\Documents\C#PracticePrograms\ParsingStringToInt\ParsingStringToInt\obj\Debug\netcoreapp3.1\ParsingStringToInt.AssemblyInfoInputs.cache
+C:\Users\Test\Documents\C#PracticePrograms\ParsingStringToInt\ParsingStringToInt\obj\Debug\netcoreapp3.1\ParsingStringToInt.AssemblyInfo.cs
+C:\Users\Test\Documents\C#PracticePrograms\ParsingStringToInt\ParsingStringToInt\obj\Debug\netcoreapp3.1\ParsingStringToInt.dll
+C:\Users\Test\Documents\C#PracticePrograms\ParsingStringToInt\ParsingStringToInt\obj\Debug\netcoreapp3.1\ParsingStringToInt.pdb

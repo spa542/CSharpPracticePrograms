@@ -1,0 +1,17 @@
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\bin\Debug\netcoreapp3.1\WPF 04.exe
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\bin\Debug\netcoreapp3.1\WPF 04.deps.json
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\bin\Debug\netcoreapp3.1\WPF 04.runtimeconfig.json
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\bin\Debug\netcoreapp3.1\WPF 04.runtimeconfig.dev.json
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\bin\Debug\netcoreapp3.1\WPF 04.dll
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\bin\Debug\netcoreapp3.1\WPF 04.pdb
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\obj\Debug\netcoreapp3.1\WPF 04.csprojAssemblyReference.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\obj\Debug\netcoreapp3.1\WPF 04_MarkupCompile.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\obj\Debug\netcoreapp3.1\WPF 04_MarkupCompile.lref
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\obj\Debug\netcoreapp3.1\WPF 04.g.resources
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\obj\Debug\netcoreapp3.1\WPF 04.AssemblyInfoInputs.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\obj\Debug\netcoreapp3.1\WPF 04.AssemblyInfo.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\obj\Debug\netcoreapp3.1\WPF 04.dll
+C:\Users\Test\Documents\C#PracticePrograms\WPF 04\WPF 04\obj\Debug\netcoreapp3.1\WPF 04.pdb

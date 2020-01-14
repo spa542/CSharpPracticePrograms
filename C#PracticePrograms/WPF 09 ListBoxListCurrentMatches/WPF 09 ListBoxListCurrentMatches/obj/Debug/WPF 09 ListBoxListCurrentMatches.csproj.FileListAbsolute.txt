@@ -1,0 +1,14 @@
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\bin\Debug\WPF 09 ListBoxListCurrentMatches.exe.config
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\bin\Debug\WPF 09 ListBoxListCurrentMatches.exe
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\bin\Debug\WPF 09 ListBoxListCurrentMatches.pdb
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\obj\Debug\WPF 09 ListBoxListCurrentMatches.csprojAssemblyReference.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\obj\Debug\MainWindow.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\obj\Debug\App.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\obj\Debug\WPF 09 ListBoxListCurrentMatches_MarkupCompile.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\obj\Debug\WPF 09 ListBoxListCurrentMatches_MarkupCompile.lref
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\obj\Debug\MainWindow.baml
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\obj\Debug\WPF 09 ListBoxListCurrentMatches.g.resources
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\obj\Debug\WPF_09_ListBoxListCurrentMatches.Properties.Resources.resources
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\obj\Debug\WPF 09 ListBoxListCurrentMatches.csproj.GenerateResource.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\obj\Debug\WPF 09 ListBoxListCurrentMatches.exe
+C:\Users\Test\Documents\C#PracticePrograms\WPF 09 ListBoxListCurrentMatches\WPF 09 ListBoxListCurrentMatches\obj\Debug\WPF 09 ListBoxListCurrentMatches.pdb

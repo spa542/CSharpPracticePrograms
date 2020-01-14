@@ -1,0 +1,11 @@
+C:\Users\Test\source\repos\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\netcoreapp3.1\ReadingFromATextFile.exe
+C:\Users\Test\source\repos\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\netcoreapp3.1\ReadingFromATextFile.deps.json
+C:\Users\Test\source\repos\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\netcoreapp3.1\ReadingFromATextFile.runtimeconfig.json
+C:\Users\Test\source\repos\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\netcoreapp3.1\ReadingFromATextFile.runtimeconfig.dev.json
+C:\Users\Test\source\repos\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\netcoreapp3.1\ReadingFromATextFile.dll
+C:\Users\Test\source\repos\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\netcoreapp3.1\ReadingFromATextFile.pdb
+C:\Users\Test\source\repos\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\netcoreapp3.1\ReadingFromATextFile.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\netcoreapp3.1\ReadingFromATextFile.AssemblyInfo.cs
+C:\Users\Test\source\repos\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\netcoreapp3.1\ReadingFromATextFile.dll
+C:\Users\Test\source\repos\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\netcoreapp3.1\ReadingFromATextFile.pdb
+C:\Users\Test\source\repos\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\netcoreapp3.1\ReadingFromATextFile.csprojAssemblyReference.cache

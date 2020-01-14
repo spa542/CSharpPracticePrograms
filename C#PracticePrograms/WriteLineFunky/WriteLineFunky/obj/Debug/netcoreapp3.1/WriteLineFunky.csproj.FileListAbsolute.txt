@@ -1,0 +1,11 @@
+C:\Users\Test\Documents\C#PracticePrograms\WriteLineFunky\WriteLineFunky\bin\Debug\netcoreapp3.1\WriteLineFunky.exe
+C:\Users\Test\Documents\C#PracticePrograms\WriteLineFunky\WriteLineFunky\bin\Debug\netcoreapp3.1\WriteLineFunky.deps.json
+C:\Users\Test\Documents\C#PracticePrograms\WriteLineFunky\WriteLineFunky\bin\Debug\netcoreapp3.1\WriteLineFunky.runtimeconfig.json
+C:\Users\Test\Documents\C#PracticePrograms\WriteLineFunky\WriteLineFunky\bin\Debug\netcoreapp3.1\WriteLineFunky.runtimeconfig.dev.json
+C:\Users\Test\Documents\C#PracticePrograms\WriteLineFunky\WriteLineFunky\bin\Debug\netcoreapp3.1\WriteLineFunky.dll
+C:\Users\Test\Documents\C#PracticePrograms\WriteLineFunky\WriteLineFunky\bin\Debug\netcoreapp3.1\WriteLineFunky.pdb
+C:\Users\Test\Documents\C#PracticePrograms\WriteLineFunky\WriteLineFunky\obj\Debug\netcoreapp3.1\WriteLineFunky.csprojAssemblyReference.cache
+C:\Users\Test\Documents\C#PracticePrograms\WriteLineFunky\WriteLineFunky\obj\Debug\netcoreapp3.1\WriteLineFunky.AssemblyInfoInputs.cache
+C:\Users\Test\Documents\C#PracticePrograms\WriteLineFunky\WriteLineFunky\obj\Debug\netcoreapp3.1\WriteLineFunky.AssemblyInfo.cs
+C:\Users\Test\Documents\C#PracticePrograms\WriteLineFunky\WriteLineFunky\obj\Debug\netcoreapp3.1\WriteLineFunky.dll
+C:\Users\Test\Documents\C#PracticePrograms\WriteLineFunky\WriteLineFunky\obj\Debug\netcoreapp3.1\WriteLineFunky.pdb

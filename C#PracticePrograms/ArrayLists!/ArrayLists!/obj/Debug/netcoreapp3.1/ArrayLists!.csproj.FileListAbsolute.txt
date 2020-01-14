@@ -1,0 +1,11 @@
+C:\Users\Test\Documents\C#PracticePrograms\ArrayLists!\ArrayLists!\bin\Debug\netcoreapp3.1\ArrayLists!.exe
+C:\Users\Test\Documents\C#PracticePrograms\ArrayLists!\ArrayLists!\bin\Debug\netcoreapp3.1\ArrayLists!.deps.json
+C:\Users\Test\Documents\C#PracticePrograms\ArrayLists!\ArrayLists!\bin\Debug\netcoreapp3.1\ArrayLists!.runtimeconfig.json
+C:\Users\Test\Documents\C#PracticePrograms\ArrayLists!\ArrayLists!\bin\Debug\netcoreapp3.1\ArrayLists!.runtimeconfig.dev.json
+C:\Users\Test\Documents\C#PracticePrograms\ArrayLists!\ArrayLists!\bin\Debug\netcoreapp3.1\ArrayLists!.dll
+C:\Users\Test\Documents\C#PracticePrograms\ArrayLists!\ArrayLists!\bin\Debug\netcoreapp3.1\ArrayLists!.pdb
+C:\Users\Test\Documents\C#PracticePrograms\ArrayLists!\ArrayLists!\obj\Debug\netcoreapp3.1\ArrayLists!.AssemblyInfoInputs.cache
+C:\Users\Test\Documents\C#PracticePrograms\ArrayLists!\ArrayLists!\obj\Debug\netcoreapp3.1\ArrayLists!.AssemblyInfo.cs
+C:\Users\Test\Documents\C#PracticePrograms\ArrayLists!\ArrayLists!\obj\Debug\netcoreapp3.1\ArrayLists!.dll
+C:\Users\Test\Documents\C#PracticePrograms\ArrayLists!\ArrayLists!\obj\Debug\netcoreapp3.1\ArrayLists!.pdb
+C:\Users\Test\Documents\C#PracticePrograms\ArrayLists!\ArrayLists!\obj\Debug\netcoreapp3.1\ArrayLists!.csprojAssemblyReference.cache

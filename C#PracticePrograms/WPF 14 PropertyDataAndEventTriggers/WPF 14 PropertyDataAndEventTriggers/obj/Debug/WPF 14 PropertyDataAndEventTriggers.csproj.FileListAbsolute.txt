@@ -1,0 +1,13 @@
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\bin\Debug\WPF 14 PropertyDataAndEventTriggers.exe.config
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\bin\Debug\WPF 14 PropertyDataAndEventTriggers.exe
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\bin\Debug\WPF 14 PropertyDataAndEventTriggers.pdb
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\obj\Debug\MainWindow.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\obj\Debug\App.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\obj\Debug\WPF 14 PropertyDataAndEventTriggers_MarkupCompile.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\obj\Debug\WPF 14 PropertyDataAndEventTriggers_MarkupCompile.lref
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\obj\Debug\MainWindow.baml
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\obj\Debug\WPF 14 PropertyDataAndEventTriggers.g.resources
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\obj\Debug\WPF_14_PropertyDataAndEventTriggers.Properties.Resources.resources
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\obj\Debug\WPF 14 PropertyDataAndEventTriggers.csproj.GenerateResource.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\obj\Debug\WPF 14 PropertyDataAndEventTriggers.exe
+C:\Users\Test\Documents\C#PracticePrograms\WPF 14 PropertyDataAndEventTriggers\WPF 14 PropertyDataAndEventTriggers\obj\Debug\WPF 14 PropertyDataAndEventTriggers.pdb

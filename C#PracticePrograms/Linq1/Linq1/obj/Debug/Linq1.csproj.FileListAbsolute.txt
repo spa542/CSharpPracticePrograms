@@ -1,0 +1,6 @@
+C:\Users\Test\source\repos\Linq1\Linq1\obj\Debug\Linq1.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\Linq1\Linq1\bin\Debug\Linq1.exe.config
+C:\Users\Test\source\repos\Linq1\Linq1\bin\Debug\Linq1.exe
+C:\Users\Test\source\repos\Linq1\Linq1\bin\Debug\Linq1.pdb
+C:\Users\Test\source\repos\Linq1\Linq1\obj\Debug\Linq1.exe
+C:\Users\Test\source\repos\Linq1\Linq1\obj\Debug\Linq1.pdb

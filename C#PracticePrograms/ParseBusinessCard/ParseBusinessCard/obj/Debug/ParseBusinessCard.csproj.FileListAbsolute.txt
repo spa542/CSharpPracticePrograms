@@ -1,0 +1,6 @@
+C:\Users\Test\Documents\C#PracticePrograms\ParseBusinessCard\ParseBusinessCard\obj\Debug\ParseBusinessCard.csprojAssemblyReference.cache
+C:\Users\Test\Documents\C#PracticePrograms\ParseBusinessCard\ParseBusinessCard\bin\Debug\ParseBusinessCard.exe.config
+C:\Users\Test\Documents\C#PracticePrograms\ParseBusinessCard\ParseBusinessCard\bin\Debug\ParseBusinessCard.exe
+C:\Users\Test\Documents\C#PracticePrograms\ParseBusinessCard\ParseBusinessCard\bin\Debug\ParseBusinessCard.pdb
+C:\Users\Test\Documents\C#PracticePrograms\ParseBusinessCard\ParseBusinessCard\obj\Debug\ParseBusinessCard.exe
+C:\Users\Test\Documents\C#PracticePrograms\ParseBusinessCard\ParseBusinessCard\obj\Debug\ParseBusinessCard.pdb

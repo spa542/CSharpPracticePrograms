@@ -1,0 +1,10 @@
+C:\Users\Test\Documents\C#PracticePrograms\AcceptingUserInput\AcceptingUserInput\bin\Debug\netcoreapp3.1\AcceptingUserInput.exe
+C:\Users\Test\Documents\C#PracticePrograms\AcceptingUserInput\AcceptingUserInput\bin\Debug\netcoreapp3.1\AcceptingUserInput.deps.json
+C:\Users\Test\Documents\C#PracticePrograms\AcceptingUserInput\AcceptingUserInput\bin\Debug\netcoreapp3.1\AcceptingUserInput.runtimeconfig.json
+C:\Users\Test\Documents\C#PracticePrograms\AcceptingUserInput\AcceptingUserInput\bin\Debug\netcoreapp3.1\AcceptingUserInput.runtimeconfig.dev.json
+C:\Users\Test\Documents\C#PracticePrograms\AcceptingUserInput\AcceptingUserInput\bin\Debug\netcoreapp3.1\AcceptingUserInput.dll
+C:\Users\Test\Documents\C#PracticePrograms\AcceptingUserInput\AcceptingUserInput\bin\Debug\netcoreapp3.1\AcceptingUserInput.pdb
+C:\Users\Test\Documents\C#PracticePrograms\AcceptingUserInput\AcceptingUserInput\obj\Debug\netcoreapp3.1\AcceptingUserInput.AssemblyInfoInputs.cache
+C:\Users\Test\Documents\C#PracticePrograms\AcceptingUserInput\AcceptingUserInput\obj\Debug\netcoreapp3.1\AcceptingUserInput.AssemblyInfo.cs
+C:\Users\Test\Documents\C#PracticePrograms\AcceptingUserInput\AcceptingUserInput\obj\Debug\netcoreapp3.1\AcceptingUserInput.dll
+C:\Users\Test\Documents\C#PracticePrograms\AcceptingUserInput\AcceptingUserInput\obj\Debug\netcoreapp3.1\AcceptingUserInput.pdb

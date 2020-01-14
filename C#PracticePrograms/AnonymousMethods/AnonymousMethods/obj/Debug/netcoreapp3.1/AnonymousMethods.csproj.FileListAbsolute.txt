@@ -1,0 +1,10 @@
+C:\Users\Test\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.exe
+C:\Users\Test\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.deps.json
+C:\Users\Test\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.runtimeconfig.json
+C:\Users\Test\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.runtimeconfig.dev.json
+C:\Users\Test\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.dll
+C:\Users\Test\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.pdb
+C:\Users\Test\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.AssemblyInfo.cs
+C:\Users\Test\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.dll
+C:\Users\Test\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.pdb

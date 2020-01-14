@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF 05 - Grid", "WPF 05 - Grid\WPF 05 - Grid.csproj", "{ABF5F1AD-B988-4BD8-881F-8927BB9CFE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF5F1AD-B988-4BD8-881F-8927BB9CFE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF5F1AD-B988-4BD8-881F-8927BB9CFE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF5F1AD-B988-4BD8-881F-8927BB9CFE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF5F1AD-B988-4BD8-881F-8927BB9CFE62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86FEC35C-88E3-490F-8854-F03D755DA515}
+	EndGlobalSection
+EndGlobal

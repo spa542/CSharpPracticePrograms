@@ -1,0 +1,11 @@
+C:\Users\Test\source\repos\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+C:\Users\Test\source\repos\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+C:\Users\Test\source\repos\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+C:\Users\Test\source\repos\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+C:\Users\Test\source\repos\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\Test\source\repos\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\Test\source\repos\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+C:\Users\Test\source\repos\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\Test\source\repos\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb

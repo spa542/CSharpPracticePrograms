@@ -1,0 +1,10 @@
+C:\Users\Test\source\repos\EnumsPractice\EnumsPractice\bin\Debug\netcoreapp3.1\EnumsPractice.exe
+C:\Users\Test\source\repos\EnumsPractice\EnumsPractice\bin\Debug\netcoreapp3.1\EnumsPractice.deps.json
+C:\Users\Test\source\repos\EnumsPractice\EnumsPractice\bin\Debug\netcoreapp3.1\EnumsPractice.runtimeconfig.json
+C:\Users\Test\source\repos\EnumsPractice\EnumsPractice\bin\Debug\netcoreapp3.1\EnumsPractice.runtimeconfig.dev.json
+C:\Users\Test\source\repos\EnumsPractice\EnumsPractice\bin\Debug\netcoreapp3.1\EnumsPractice.dll
+C:\Users\Test\source\repos\EnumsPractice\EnumsPractice\bin\Debug\netcoreapp3.1\EnumsPractice.pdb
+C:\Users\Test\source\repos\EnumsPractice\EnumsPractice\obj\Debug\netcoreapp3.1\EnumsPractice.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\EnumsPractice\EnumsPractice\obj\Debug\netcoreapp3.1\EnumsPractice.AssemblyInfo.cs
+C:\Users\Test\source\repos\EnumsPractice\EnumsPractice\obj\Debug\netcoreapp3.1\EnumsPractice.dll
+C:\Users\Test\source\repos\EnumsPractice\EnumsPractice\obj\Debug\netcoreapp3.1\EnumsPractice.pdb

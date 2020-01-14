@@ -1,0 +1,14 @@
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\bin\Debug\LInqToSql.exe.config
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\bin\Debug\LInqToSql.exe
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\bin\Debug\LInqToSql.pdb
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\obj\Debug\LInqToSql.csprojAssemblyReference.cache
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\obj\Debug\MainWindow.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\obj\Debug\App.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\obj\Debug\LInqToSql_MarkupCompile.cache
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\obj\Debug\LInqToSql_MarkupCompile.lref
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\obj\Debug\MainWindow.baml
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\obj\Debug\LInqToSql.g.resources
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\obj\Debug\LInqToSql.Properties.Resources.resources
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\obj\Debug\LInqToSql.csproj.GenerateResource.cache
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\obj\Debug\LInqToSql.exe
+C:\Users\Test\Documents\C#PracticePrograms\LInqToSql\LInqToSql\obj\Debug\LInqToSql.pdb

@@ -1,0 +1,11 @@
+C:\Users\Test\source\repos\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.exe
+C:\Users\Test\source\repos\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.deps.json
+C:\Users\Test\source\repos\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.runtimeconfig.json
+C:\Users\Test\source\repos\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.runtimeconfig.dev.json
+C:\Users\Test\source\repos\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.dll
+C:\Users\Test\source\repos\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.pdb
+C:\Users\Test\source\repos\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.AssemblyInfo.cs
+C:\Users\Test\source\repos\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.dll
+C:\Users\Test\source\repos\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.pdb

@@ -1,0 +1,6 @@
+C:\Users\Test\source\repos\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe.config
+C:\Users\Test\source\repos\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe
+C:\Users\Test\source\repos\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.pdb
+C:\Users\Test\source\repos\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.exe
+C:\Users\Test\source\repos\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.pdb

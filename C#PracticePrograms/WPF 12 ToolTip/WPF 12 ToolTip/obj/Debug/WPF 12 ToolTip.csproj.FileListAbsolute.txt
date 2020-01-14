@@ -1,0 +1,13 @@
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\bin\Debug\WPF 12 ToolTip.exe.config
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\bin\Debug\WPF 12 ToolTip.exe
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\bin\Debug\WPF 12 ToolTip.pdb
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\MainWindow.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\App.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip_MarkupCompile.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip_MarkupCompile.lref
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\MainWindow.baml
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip.g.resources
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF_12_ToolTip.Properties.Resources.resources
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip.csproj.GenerateResource.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip.exe
+C:\Users\Test\Documents\C#PracticePrograms\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip.pdb

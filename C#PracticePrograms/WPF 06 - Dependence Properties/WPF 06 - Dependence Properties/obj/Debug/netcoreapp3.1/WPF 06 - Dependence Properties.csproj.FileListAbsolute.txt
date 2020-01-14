@@ -1,0 +1,17 @@
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\bin\Debug\netcoreapp3.1\WPF 06 - Dependence Properties.exe
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\bin\Debug\netcoreapp3.1\WPF 06 - Dependence Properties.deps.json
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\bin\Debug\netcoreapp3.1\WPF 06 - Dependence Properties.runtimeconfig.json
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\bin\Debug\netcoreapp3.1\WPF 06 - Dependence Properties.runtimeconfig.dev.json
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\bin\Debug\netcoreapp3.1\WPF 06 - Dependence Properties.dll
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\bin\Debug\netcoreapp3.1\WPF 06 - Dependence Properties.pdb
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\obj\Debug\netcoreapp3.1\WPF 06 - Dependence Properties.csprojAssemblyReference.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\obj\Debug\netcoreapp3.1\WPF 06 - Dependence Properties_MarkupCompile.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\obj\Debug\netcoreapp3.1\WPF 06 - Dependence Properties_MarkupCompile.lref
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\obj\Debug\netcoreapp3.1\WPF 06 - Dependence Properties.g.resources
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\obj\Debug\netcoreapp3.1\WPF 06 - Dependence Properties.AssemblyInfoInputs.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\obj\Debug\netcoreapp3.1\WPF 06 - Dependence Properties.AssemblyInfo.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\obj\Debug\netcoreapp3.1\WPF 06 - Dependence Properties.dll
+C:\Users\Test\Documents\C#PracticePrograms\WPF 06 - Dependence Properties\WPF 06 - Dependence Properties\obj\Debug\netcoreapp3.1\WPF 06 - Dependence Properties.pdb

@@ -1,0 +1,11 @@
+C:\Users\Test\source\repos\InheritanceStuff\InheritanceStuff\bin\Debug\netcoreapp3.1\InheritanceStuff.exe
+C:\Users\Test\source\repos\InheritanceStuff\InheritanceStuff\bin\Debug\netcoreapp3.1\InheritanceStuff.deps.json
+C:\Users\Test\source\repos\InheritanceStuff\InheritanceStuff\bin\Debug\netcoreapp3.1\InheritanceStuff.runtimeconfig.json
+C:\Users\Test\source\repos\InheritanceStuff\InheritanceStuff\bin\Debug\netcoreapp3.1\InheritanceStuff.runtimeconfig.dev.json
+C:\Users\Test\source\repos\InheritanceStuff\InheritanceStuff\bin\Debug\netcoreapp3.1\InheritanceStuff.dll
+C:\Users\Test\source\repos\InheritanceStuff\InheritanceStuff\bin\Debug\netcoreapp3.1\InheritanceStuff.pdb
+C:\Users\Test\source\repos\InheritanceStuff\InheritanceStuff\obj\Debug\netcoreapp3.1\InheritanceStuff.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\InheritanceStuff\InheritanceStuff\obj\Debug\netcoreapp3.1\InheritanceStuff.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\InheritanceStuff\InheritanceStuff\obj\Debug\netcoreapp3.1\InheritanceStuff.AssemblyInfo.cs
+C:\Users\Test\source\repos\InheritanceStuff\InheritanceStuff\obj\Debug\netcoreapp3.1\InheritanceStuff.dll
+C:\Users\Test\source\repos\InheritanceStuff\InheritanceStuff\obj\Debug\netcoreapp3.1\InheritanceStuff.pdb

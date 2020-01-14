@@ -1,0 +1,11 @@
+C:\Users\Test\Documents\C#PracticePrograms\StringStuff\StringStuff\bin\Debug\netcoreapp3.1\StringStuff.exe
+C:\Users\Test\Documents\C#PracticePrograms\StringStuff\StringStuff\bin\Debug\netcoreapp3.1\StringStuff.deps.json
+C:\Users\Test\Documents\C#PracticePrograms\StringStuff\StringStuff\bin\Debug\netcoreapp3.1\StringStuff.runtimeconfig.json
+C:\Users\Test\Documents\C#PracticePrograms\StringStuff\StringStuff\bin\Debug\netcoreapp3.1\StringStuff.runtimeconfig.dev.json
+C:\Users\Test\Documents\C#PracticePrograms\StringStuff\StringStuff\bin\Debug\netcoreapp3.1\StringStuff.dll
+C:\Users\Test\Documents\C#PracticePrograms\StringStuff\StringStuff\bin\Debug\netcoreapp3.1\StringStuff.pdb
+C:\Users\Test\Documents\C#PracticePrograms\StringStuff\StringStuff\obj\Debug\netcoreapp3.1\StringStuff.csprojAssemblyReference.cache
+C:\Users\Test\Documents\C#PracticePrograms\StringStuff\StringStuff\obj\Debug\netcoreapp3.1\StringStuff.AssemblyInfoInputs.cache
+C:\Users\Test\Documents\C#PracticePrograms\StringStuff\StringStuff\obj\Debug\netcoreapp3.1\StringStuff.AssemblyInfo.cs
+C:\Users\Test\Documents\C#PracticePrograms\StringStuff\StringStuff\obj\Debug\netcoreapp3.1\StringStuff.dll
+C:\Users\Test\Documents\C#PracticePrograms\StringStuff\StringStuff\obj\Debug\netcoreapp3.1\StringStuff.pdb

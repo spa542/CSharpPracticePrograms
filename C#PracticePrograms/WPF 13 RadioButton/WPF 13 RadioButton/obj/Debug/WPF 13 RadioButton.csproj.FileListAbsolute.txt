@@ -1,0 +1,13 @@
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\bin\Debug\WPF 13 RadioButton.exe.config
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\bin\Debug\WPF 13 RadioButton.exe
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\bin\Debug\WPF 13 RadioButton.pdb
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\obj\Debug\MainWindow.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\obj\Debug\App.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\obj\Debug\WPF 13 RadioButton_MarkupCompile.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\obj\Debug\WPF 13 RadioButton_MarkupCompile.lref
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\obj\Debug\MainWindow.baml
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\obj\Debug\WPF 13 RadioButton.g.resources
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\obj\Debug\WPF_13_RadioButton.Properties.Resources.resources
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\obj\Debug\WPF 13 RadioButton.csproj.GenerateResource.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\obj\Debug\WPF 13 RadioButton.exe
+C:\Users\Test\Documents\C#PracticePrograms\WPF 13 RadioButton\WPF 13 RadioButton\obj\Debug\WPF 13 RadioButton.pdb

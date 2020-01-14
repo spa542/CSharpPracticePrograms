@@ -1,0 +1,17 @@
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\bin\Debug\netcoreapp3.1\WPF 05 - Grid.exe
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\bin\Debug\netcoreapp3.1\WPF 05 - Grid.deps.json
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\bin\Debug\netcoreapp3.1\WPF 05 - Grid.runtimeconfig.json
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\bin\Debug\netcoreapp3.1\WPF 05 - Grid.runtimeconfig.dev.json
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\bin\Debug\netcoreapp3.1\WPF 05 - Grid.dll
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\bin\Debug\netcoreapp3.1\WPF 05 - Grid.pdb
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\obj\Debug\netcoreapp3.1\WPF 05 - Grid.csprojAssemblyReference.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\obj\Debug\netcoreapp3.1\WPF 05 - Grid_MarkupCompile.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\obj\Debug\netcoreapp3.1\WPF 05 - Grid_MarkupCompile.lref
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\obj\Debug\netcoreapp3.1\WPF 05 - Grid.g.resources
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\obj\Debug\netcoreapp3.1\WPF 05 - Grid.AssemblyInfoInputs.cache
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\obj\Debug\netcoreapp3.1\WPF 05 - Grid.AssemblyInfo.cs
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\obj\Debug\netcoreapp3.1\WPF 05 - Grid.dll
+C:\Users\Test\Documents\C#PracticePrograms\WPF 05 - Grid\WPF 05 - Grid\obj\Debug\netcoreapp3.1\WPF 05 - Grid.pdb
